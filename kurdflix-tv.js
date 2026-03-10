@@ -1,6 +1,6 @@
 // ئەمە خشتەکەتە، لێرە ڤیدیۆکانت بگۆڕە (بەبێ دەستکاریکردنی بلۆگەر)
 const kurdflixSchedule = [
-  { time: "00:00", link: "https://example.com/movie1.mp4" },
+  { time: "00:00", link: "https://github.com/mane-0/kurdflix-film-file/releases/download/v1.0/Our.Flag.Means.Death.s1e7.mp4" },
   { time: "06:00", link: "https://example.com/movie2.mp4" },
   { time: "12:00", link: "https://example.com/movie3.mp4" },
   { time: "18:00", link: "https://example.com/movie4.mp4" }
